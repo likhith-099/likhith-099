@@ -27,3 +27,4 @@
 📝 Writing technical blogs & documentation
 🏅 Solving challenging DSA problems
 🚀 Developing production-ready applications
+<p align="center"> <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Likhith-D-blue?style=flat" alt="Made with love" /> </p><p align="center"> <a href="https://github.com/likhith-099"> <img src="https://img.shields.io/badge/⭐_Star_my_repos-important?style=flat&color=yellow" alt="Star" /> </a> </p>
