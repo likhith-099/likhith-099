@@ -11,7 +11,7 @@
 - 🔭 Currently working on **AI/ML projects and Full Stack Web Applications**
 - 🌱 Learning **Machine Learning, Deep Learning, and Cloud Technologies**
 - 💻 Exploring **Data Structures and Algorithms**
-- 📫 Reach me: **likhithd099@gmail.com** (update with your actual email)
+- 📫 Reach me: **likhith241@gmail.com** (update with your actual email)
 - ⚡ Fun fact: **Always curious about emerging technologies!**
 
 ## 🛠️ Tech Stack
