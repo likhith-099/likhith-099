@@ -21,3 +21,9 @@
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=likhith-099&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhith-099&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%" /></div><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith-099&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" width="50%" /> </p>
 🤝 Let's Connect!
 <p align="center"> <a href="https://linkedin.com/in/likhith-d-4753a3293" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:likhithd099@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://github.com/likhith-099" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
+📈 Recent Activity & Goals
+✅ Building strong foundation in ML & DL
+🎯 Contributing to open-source projects
+📝 Writing technical blogs & documentation
+🏅 Solving challenging DSA problems
+🚀 Developing production-ready applications
